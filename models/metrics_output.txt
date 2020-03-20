@@ -1,0 +1,34 @@
+---------------Decision Tree Model-----------------------
+Accuracy score: 0.9166666666666666
+CFM: 
+ [[18  0  0]
+ [ 0 20  4]
+ [ 0  1 17]]
+Classification Report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        18
+Iris-versicolor       0.95      0.83      0.89        24
+ Iris-virginica       0.81      0.94      0.87        18
+
+       accuracy                           0.92        60
+      macro avg       0.92      0.93      0.92        60
+   weighted avg       0.92      0.92      0.92        60
+
+---------------KNeighbors Model-----------------------
+Accuracy score: 0.95
+CFM: 
+ [[18  0  0]
+ [ 0 21  3]
+ [ 0  0 18]]
+Classification Report: 
+                  precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        18
+Iris-versicolor       1.00      0.88      0.93        24
+ Iris-virginica       0.86      1.00      0.92        18
+
+       accuracy                           0.95        60
+      macro avg       0.95      0.96      0.95        60
+   weighted avg       0.96      0.95      0.95        60
+
