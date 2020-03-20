@@ -4,8 +4,8 @@ import paramiko
 import time
 
 #Can be imported from a config file but hardcoded for simplicity
-ACCESS_KEY = 'AKIAT5Y6VW7SMTCTTTM3'
-SECRET_KEY = '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'
+ACCESS_KEY = '##########'
+SECRET_KEY = '###############'
 region = 'us-east-2'
 
 #Initializing boto3 session
