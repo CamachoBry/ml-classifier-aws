@@ -14,7 +14,7 @@ decorator==4.4.1
 docutils==0.15.2
 future==0.18.2
 idna==2.8
-Jinja2==2.11.1
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jmespath==0.9.5
 joblib==0.14.1
